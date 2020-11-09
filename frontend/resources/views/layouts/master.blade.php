@@ -14,6 +14,7 @@
     <link href="{{asset('/Eshopper/css/main.css')}}" rel="stylesheet">
     <link href="{{asset('/Eshopper/css/responsive.css')}}" rel="stylesheet">
     <link href="{{asset('/home/home.css')}}" rel="stylesheet">
+    <p> TEst 1</p>
     @yield('css')
     </head>
     <body>
