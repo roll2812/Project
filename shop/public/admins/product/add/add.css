@@ -1,0 +1,21 @@
+.select2-selection__choice {
+    background-color: #007bff !important;
+}
+.image_resize {
+    width: 100%;
+    height: 130px;
+    object-fit: cover;
+}
+.margin_top {
+    margin-top: 20px;
+}
+.alert-danger {
+margin-top: 5px;
+padding: 4px 5px;
+
+}
+.image-slider {
+    width: 100px;
+    height: 140px;
+    
+}
